@@ -61,6 +61,11 @@ html, body {
   font-family: 'FUNGKY GRUNGE', sans-serif;
   color: #FFD95D;
   letter-spacing: 0.2rem;
+  text-shadow: 
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
 }
 
 .content p {
