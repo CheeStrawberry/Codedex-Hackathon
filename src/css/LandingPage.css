@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #FCF3E4;
+  color:#013C5A;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
